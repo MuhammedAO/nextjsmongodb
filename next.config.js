@@ -8,5 +8,5 @@ module.exports = {
   env: {
     MONGO_URI:"mongodb+srv://mo:muhammed@cluster0.cti3a.mongodb.net/<dbname>?retryWrites=true&w=majority"
   },
-  target: 'serverless'
+  // target: 'serverless'
 };
